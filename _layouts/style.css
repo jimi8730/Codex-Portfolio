@@ -1,0 +1,6 @@
+{% include css/bootstrap.min.css %}
+{% include css/codex.css %}
+{% include css/animation.css %}
+{% include css/fab.css %}
+{% include css/timeline.css %}
+{{ content }}
